@@ -7,6 +7,11 @@ This repository contains the code and instructions for **Tutorial 1** from [Prem
 - Add the ExtendScript Debugger
 - Run your first "Hello, Premiere!" script
 
+## Prerequisites
+- Adobe Premiere Pro installed and **open with any project**
+- Visual Studio Code
+- VS Code extension: **Adobe ExtendScript Debugger**
+
 ## Files
 - `hello-premiere.jsx` — the sample script that pops up a dialog in Premiere.
 
